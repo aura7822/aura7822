@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Aura Joshua</h1>
-<h3 align="center">💻 Software Engineer | Python Wizard | Automation Architect</h3>
+<h3 align="center">💻 Software Engineer | Java Programmer | Automation Wizard</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aura7822&show_icons=true&theme=radical" alt="stats" />
@@ -9,7 +9,7 @@
 
 ### 🧠 About Me
 - ⚡ Passionate about automation, AI, and ethical hacking  
-- 🧩 Building a fully automated Forex trading bot in Python  
+- 🧩 Built an uncomplicated java code obfuscator 
 - 🛠️ Currently developing a WhatsApp bot powered by Baileys  
 - 🧑‍💻 Fedora user, scripting like a boss in Linux  
 
@@ -31,7 +31,7 @@
 ---
 
 ### 🧩 Quote
-> "Sometimes, the only way to make peace is to be the one holding the gun." — *Tommy Shelby*
+> "Fast women and slow horses will ruin your life" — *Tommy Shelby*
 
 ---
 
