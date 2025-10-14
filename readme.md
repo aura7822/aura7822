@@ -5,7 +5,7 @@
 <div align="center">
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <div align="center">
-  <img src="https://github.com/aura7822/aura7822/blob/main/cover.gif" alt="IM AURA Banner" width="100%" height="auto"/>
+  <img src="https://github.com/aura7822/aura7822/blob/main/cover.gif" alt="IM AURA Banner" width="60%" height="auto"/>
 ⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚  
    
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -53,8 +53,10 @@
 ### 🔥 GitHub Stats :
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aura7822&theme=radical" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=aura7822&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
+
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
