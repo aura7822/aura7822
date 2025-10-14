@@ -6,7 +6,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <div align="center">
   <img src="https://github.com/aura7822/aura7822/blob/main/cover.gif" alt="IM AURA Banner" width="100%" height="auto"/>
-⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚  
+⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚  
    
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -51,9 +51,11 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=aura7822&theme=radical)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ### 🔥 GitHub Stats :
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aura7822&theme=radical" alt="streak" />
 </p>
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### 📊Metrics :
@@ -69,7 +71,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=aura7822&color=00ff00&style=flat-square&label=Visitors)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪
+◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ![Aura's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aura7822&theme=matrix&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&hide_border=true)
@@ -105,7 +107,7 @@
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖
+❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖
 
 
 
