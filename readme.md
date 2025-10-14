@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Engineer | Python Wizard | Automation Architect</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aura782&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aura7822&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 ---
@@ -24,8 +24,8 @@
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aura782&theme=radical" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aura782&layout=compact&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aura7822&theme=radical" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aura7822&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/aura-joshua-615660344/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://github.com/aura782" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/aura7822" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
 
 ---
