@@ -5,7 +5,9 @@
 <div align="center">
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <div align="center">
-  <img src="https://github.com/aura7822/aura7822/blob/main/cover.gif" alt="IM AURA Banner" width="60%" height="auto"/>
+  <img src="https://github.com/aura7822/aura7822/blob/main/cover.gif" alt="IM AURA Banner" width="60%" height="auto" />
+   
+
 ⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚  
    
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
