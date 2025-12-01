@@ -4,6 +4,7 @@
 </a>
 <div align="center">
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
   <div align="center">
   <img src="https://github.com/aura7822/aura7822/blob/main/cover.gif" alt="IM AURA Banner" width="60%" height="auto" />
    
@@ -12,7 +13,10 @@
    
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<h3 align="center">🖥️ Software Engineer ⯚   Java Programmer  ⯚  Data Wizard  ⯚  Software Developer</h3>
+<img align='left' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem54dWU5MHZmMnFxZG85NTlvMjZ3a3B0a2p6d29zd3kyZWQwdnExdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3mZpcNC69UuXjoME/giphy.gif" width="230">
+
+<div align="center">
+<h3 > 🖥️ Software Engineer ⯚   Java Programmer  ⯚  Data Wizard  ⯚  Software Developer</h3>
 
 
 ![Software](https://img.shields.io/badge/Software-Engineer-3776AB?logo=Software&logoColor=white) 
@@ -21,15 +25,14 @@
 ![Software](https://img.shields.io/badge/Software-Developer-3776AB?logo=Software&logoColor=white)
 
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aura7822&show_icons=true&theme=radical" alt="stats" />
-</p>
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNrOGNhMXkyN3FicGk3dHl1a3k3OW5odmU5MDJnMmtmejkzdmhhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="230">
+<div align="center">
+  
+ ### 🧠 About Me :
 
- # 🧠 About Me :
- 
+ <div align="left">
+   
 ❖ 🇰🇪 Am just a programmer
 
 ❖ ⚡ Passionate about automation, AI, and ethical hacking 
@@ -67,12 +70,15 @@
 ![Metrics](https://metrics.lecoq.io/aura7822?template=classic&config.token=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&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.hireable=false&config.timezone=Africa%2FNairobi&theme=terminal)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aura7822&layout=compact&theme=radical" />
-</p>
 
+### Playlist of the day : 
 
-![Visitors](https://komarev.com/ghpvc/?username=aura7822&color=00ff00&style=flat-square&label=Visitors)
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X)
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪
@@ -111,10 +117,25 @@
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
 ❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖
 
+**Game is in progress.** Its a piece worth moving 
 
 
-
-
-
+|   | A | B | C | D | E | F | G | H |
+| - | - | - | - | - | - | - | - | - |
+| 8 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 7 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/P.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 6 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/K.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/k.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 5 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 4 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 3 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/q.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 2 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
+| 1 | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) | ![](https://raw.githubusercontent.com/timburgan/timburgan/master/chess_images/blank.png) |
