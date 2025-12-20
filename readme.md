@@ -14,7 +14,7 @@
 <img align='left' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem54dWU5MHZmMnFxZG85NTlvMjZ3a3B0a2p6d29zd3kyZWQwdnExdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3mZpcNC69UuXjoME/giphy.gif" width="230">
 
 <div align="center">
-<h3 > 🖥️ Software Engineer ⯚   Java Programmer  ⯚  Data Wizard  ⯚  Software Developer</h3>
+<h3 > 🖥️ Software Engineer ⯚   Rust Programmer  ⯚  Data Wizard  ⯚  Network engineer</h3>
 
 
 ![Software](https://img.shields.io/badge/Software-Engineer-3776AB?logo=Software&logoColor=white) 
@@ -27,7 +27,7 @@
 <img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNrOGNhMXkyN3FicGk3dHl1a3k3OW5odmU5MDJnMmtmejkzdmhhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="230">
 <div align="center">
   
- ### 🧠 About Me :
+ ### 🧠 ℳy_Narrative :
 
  <div align="left">
    
@@ -35,15 +35,16 @@
 
 ❖ ⚡ Passionate about automation, AI, and ethical hacking 
 
-❖ 🧩 Built an uncomplicated java code obfuscator 
+❖ 🧩 Certified linux System Administrator[CompTIA Linux+]™
 
-❖ 🛠️ Currently developing a WhatsApp bot powered by Baileys  
+❖ 🛠️ Currently deploying heterogenus projects non-simultaneously 
 
-❖ 🧑‍💻 Fedora user, scripting like a boss in Linux  
+❖ 🧑‍💻 Fedora user, shell scripting like a guru in Linux  
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-### 🛠️ Tech Arsenals :
+  <div align= "center">
+    
+### 🛠️ Tech_Arsenals :
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,java,flask,cpp,linux,bash,redhat,replit,git,github,sqlite,mysql,docker" />
 </p>
@@ -53,7 +54,7 @@
 ### Trophies :
 ![trophy](https://github-profile-trophy.vercel.app/?username=aura7822&theme=radical)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-### 🔥 GitHub Stats :
+### 🔥 GitHub_Stats :
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=aura7822&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
@@ -62,14 +63,77 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<div align="left">
+  
+<div style="display: flex; justify-content: space-between;">
+<div style="width:48%;">
+  
+<table>
+<tr>
+<td>
 
-### 📊Metrics :
-
+### 📊 ℳetrics:⮧
 ![Metrics](https://metrics.lecoq.io/aura7822?template=classic&config.token=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&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.hireable=false&config.timezone=Africa%2FNairobi&theme=terminal)
+</td>
+<td>
+
+### ℕotorious_languages:⮧
+
+
+###
+
+⧉ MySQL 
+
+⧉ Java  
+
+⧉ JavaScript 
+
+⧉ Python  
+
+⧉ Julia  
+
+⧉ C++  
+
+⧉ Shell  
+
+⧉ Rust  
+</td>
+<td>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+  
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</p>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=julia" />
+</p>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=bash" />
+</p>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=rust" />
+</p>
+</td>
+</tr>
+</table>
+
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### Playlist of the day : 
+<div align = "center">
+  
+### ⅊laylist_of_the_day : 
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
@@ -92,7 +156,7 @@
 > "Fast women and slow horses will ruin your life" — *Tommy Shelby*
 > 
 ▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩
-### 😜Fun Fact :
+### 😜Fun_Fact :
 > Most of my codes run on coffee and spotify playlist
 >
 ▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩
@@ -100,7 +164,7 @@
 > If the code doesn't run, `console.log` it until it confesses 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### 🌐 Lets connect :
+### 🌐 ℒets_connect :
 <p align="center">
   <a href="https://www.linkedin.com/in/aura-joshua-615660344/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/aura7822" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
