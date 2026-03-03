@@ -51,9 +51,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### Trophies :
-![trophy](https://github-profile-trophy.vercel.app/?username=aura7822&theme=radical)
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ### 🔥 GitHub_Stats :
 
 <p align="center">
@@ -72,10 +70,7 @@
 <tr>
 <td>
 
-### 📊 ℳetrics:⮧
-![Metrics](https://metrics.lecoq.io/aura7822?template=classic&config.token=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&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&base.hireable=false&config.timezone=Africa%2FNairobi&theme=terminal)
-</td>
-<td>
+
 
 ### ℕotorious_languages:⮧
 
