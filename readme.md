@@ -1,12 +1,15 @@
+
+<p align="center">
+  <a href="https://instagram.com/t.y.p.i.c.a.l.l.y_aura_73">
+    <img src="https://skillicons.dev/icons?i=instagram" width="28"> t.y.p.i.c.a.l.l.y_aura_73
+  </a>
+</p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=50&color=ff007f&center=true&width=1200&height=100&lines=HELLO%20WORLD;IM%20AURA%20.%20.%20.%20.%20.%20.;WELCOME%20TO%20MY-PROFILE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=15&color=ff007f&center=true&width=1200&height=90&lines=GRANTING%20%20PRIVILEDGES%20.%20.%20.;HELLO%20%20WORLD;IM%20AURA%20.%20.%20.%20.;WELCOME%20TO%20MY-SANDBOX" alt="Typing SVG" />
 </a>
 <div align="center">
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
-
-
+      
 ⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚⬚  
    
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -14,45 +17,46 @@
 <img align='left' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExem54dWU5MHZmMnFxZG85NTlvMjZ3a3B0a2p6d29zd3kyZWQwdnExdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3mZpcNC69UuXjoME/giphy.gif" width="230">
 
 <div align="center">
-<h3 > 🖥️ Software Engineer ⯚   Rust Programmer  ⯚  Data Wizard  ⯚  Network engineer</h3>
+<h3 >  Software Engineer 🐾  DevOps_Engineer  🐾 Blockchain & Web3 Developer  🐾 Rust_Programmer</h3>
 
 
-![Software](https://img.shields.io/badge/Software-Engineer-3776AB?logo=Software&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-Expert-3776AB?logo=Java&logoColor=white)
-![Data](https://img.shields.io/badge/Data-Wizard-3776AB?logo=Data&logoColor=white)
-![Software](https://img.shields.io/badge/Software-Developer-3776AB?logo=Software&logoColor=white)
+![Software](https://img.shields.io/badge/Software-Engineer-ff0000?logo=Software&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-Expert-ff5500?logo=Java&logoColor=white)
+![Dev](https://img.shields.io/badge/DevOps-Engineer-55007f?logo=Java&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-Wizard-555500?logo=Web3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-Programmer-ff007f?logo=Software&logoColor=white)
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmNrOGNhMXkyN3FicGk3dHl1a3k3OW5odmU5MDJnMmtmejkzdmhhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxycmNvbWF2emRwbWpmZ2VzNWtjemlxMGE5aGIxYWxidzQ5aDdnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="250">
 <div align="center">
   
- ### 🧠 ℳy_Narrative :
+ ### 🦋🅜🅘🅝🅔 🅟🅗🅘🅛🅞🅢🅞🅟🅗🅨 :
 
  <div align="left">
    
-❖ 🇰🇪 Am just a programmer
+❖  Notorious disciplined programmer
 
-❖ ⚡ Passionate about automation, AI, and ethical hacking 
+❖  god in devOps  ■  web3 development  ■  backend dev - High endurance
 
-❖ 🧩 Certified linux System Administrator[CompTIA Linux+]™
+❖  Linux System Administrator[CompTIA Linux+]™  ■ vibe code surgeon
 
-❖ 🛠️ Currently deploying heterogenus projects non-simultaneously 
+❖  Currently deploying heterogenus projects non-simultaneously 
 
-❖ 🧑‍💻 Fedora user, shell scripting like a guru in Linux  
+❖  Fedora user  ■  scripting with kernel fluency
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <div align= "center">
     
-### 🛠️ Tech_Arsenals :
+### 🦋🅣🅔🅒🅗 🅐🅡🅢🅔🅝🅐🅛🅢 :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,java,flask,cpp,linux,bash,redhat,replit,git,github,sqlite,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,java,discord,bots,arch,kubernetes,flask,cpp,linux,androidstudio,blender,c,cs,cmake,debian,rust,bash,redhat,replit,git,github,mongodb,mysql,docker" />
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-### 🔥 GitHub_Stats :
+### 🦋🅖🅘🅣🅗🅤🅑 🅢🅣🅐🅣🅢 :
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=aura7822&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
@@ -71,55 +75,25 @@
 <td>
 
 
+<h3 align="center">🦋🅝🅞🅣🅞🅡🅘🅞🅤🅢 🅛🅐🅝🅖🅤🅐🅖🅔🅢 ⮧</h3>
 
-### ℕotorious_languages:⮧
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=c" width="40"/><br>C</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>C++</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS</td>
+</tr>
 
-
-###
-
-⧉ MySQL 
-
-⧉ Java  
-
-⧉ JavaScript 
-
-⧉ Python  
-
-⧉ Julia  
-
-⧉ C++  
-
-⧉ Shell  
-
-⧉ Rust  
-</td>
-<td>
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-  
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=javascript" />
-</p>
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=julia" />
-</p>
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=cpp" />
-</p>
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=bash" />
-</p>
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=rust" />
-</p>
-</td>
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs" width="40"/><br>C#</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br>JavaScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bash" width="40"/><br>Bash</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=rust" width="40"/><br>Rust</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=go" width="40"/><br>Go</td>
 </tr>
 </table>
 
@@ -128,7 +102,7 @@
 
 <div align = "center">
   
-### ⅊laylist_of_the_day : 
+### 🎼⅊laylist_of_the_day🎼
 
 <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
@@ -138,32 +112,34 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-![Aura's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aura7822&theme=matrix&bg_color=000000&color=00ff00&line=00ff00&point=00ff00&hide_border=true)
+![Aura's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aura7822&theme=matrix&bg_color=000000&color=00ff00&line=ffff00&point=00ff00&hide_border=true)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=10&color=00FF00&center=true&vCenter=true&width=500&lines=Fedora+User;Automation+Architect;AI+Explorer;WhatsApp+Bot+Dev)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Allura&size=44&duration=4000&pause=70&color=ff007f&center=true&vCenter=true&width=500&lines=I+code;I+build;I+break;I+exploit;I+repair)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-### 🧩 Quote :
+### 🦋🅠🅤🅞🅣🅔 :
 > "Fast women and slow horses will ruin your life" — *Tommy Shelby*
 > 
 ▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩
-### 😜Fun_Fact :
+### 🦋🅕🅤🅝 🅕🅐🅒🅣 :
 > Most of my codes run on coffee and spotify playlist
 >
 ▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩
-### 🃏Joke :
+### 🦋🅙🅞🅚🅔 :
 > If the code doesn't run, `console.log` it until it confesses 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### 🌐 ℒets_connect :
+###  🦋🅛🅔🅣🅢 🅒🅞🅝🅝🅔🅒🅣 :
 <p align="center">
   <a href="https://www.linkedin.com/in/aura-joshua-615660344/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/aura7822" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
     <a href="https://replit.com/account" target="_blank"><img src="https://skillicons.dev/icons?i=replit" /></a>
+ <a href="https://instagram.com/t.y.p.i.c.a.l.l.y_aura_73" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 </p>
 
 
@@ -181,9 +157,18 @@
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-ff0000?style=for-the-badge)](https://www.buymeacoffee.com/aura7822)
+
+<p align="center">
+  Or else:
+  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo4d2dsam1jeG52M2RwM2F3bDExeGRmcnQxNDBydTRrejVzejdrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Lacdhow6MzATtdNytw/giphy.gif" alt="or else gif" width="100"/>
+</p>
+
 ❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖
 
-**Game is in progress.** Its a piece worth moving 
+**🦋Game is in progress.** Its a piece worth moving 
 
 
 |   | A | B | C | D | E | F | G | H |
