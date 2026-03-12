@@ -122,19 +122,19 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Allura&size=44&duration=4000&pause=70&color=ff007f&center=true&vCenter=true&width=500&lines=I+code;I+build;I+break;I+exploit;I+repair)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-### 🦋🅠🅤🅞🅣🅔 :
+### 🦋ℚ𝕌𝕆𝕋𝔼 :
 > "Fast women and slow horses will ruin your life" — *Tommy Shelby*
 > 
 ▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩
-### 🦋🅕🅤🅝 🅕🅐🅒🅣 :
+### 🦋𝔽𝕌ℕ 𝔽𝔸ℂ𝕋:
 > Most of my codes run on coffee and spotify playlist
 >
 ▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩▩
-### 🦋🅙🅞🅚🅔 :
+### 🦋𝕁𝕆𝕂𝔼 :
 > If the code doesn't run, `console.log` it until it confesses 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-###  🦋🅛🅔🅣🅢 🅒🅞🅝🅝🅔🅒🅣 :
+###  🦋𝕃𝔼𝕋𝕊 ℂ𝕆ℕℕ𝔼ℂ𝕋 :
 <p align="center">
   <a href="https://www.linkedin.com/in/aura-joshua-615660344/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://github.com/aura7822" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
