@@ -31,7 +31,7 @@
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxycmNvbWF2emRwbWpmZ2VzNWtjemlxMGE5aGIxYWxidzQ5aDdnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="250">
 <div align="center">
   
- ### 🦋🅜🅘🅝🅔 🅟🅗🅘🅛🅞🅢🅞🅟🅗🅨 :
+ ### 🦋𝕄𝕀ℕ𝔼 ℙℍ𝕀𝕃𝕆𝕊𝕆ℙℍ𝕐 :
 
  <div align="left">
    
@@ -48,7 +48,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   <div align= "center">
     
-### 🦋🅣🅔🅒🅗 🅐🅡🅢🅔🅝🅐🅛🅢 :
+### 🦋𝕋𝔼ℂℍ 𝔸ℝ𝕊𝔼ℕ𝔸𝕃𝕊 :
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,nodejs,java,discord,bots,arch,kubernetes,flask,cpp,linux,androidstudio,blender,c,cs,cmake,debian,rust,bash,redhat,replit,git,github,mongodb,mysql,docker" />
 </p>
@@ -56,7 +56,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-### 🦋🅖🅘🅣🅗🅤🅑 🅢🅣🅐🅣🅢 :
+### 🦋𝔾𝕀𝕋ℍ𝕌𝔹 𝕊𝕋𝔸𝕋𝕊 :
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=aura7822&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
@@ -75,7 +75,7 @@
 <td>
 
 
-<h3 align="center">🦋🅝🅞🅣🅞🅡🅘🅞🅤🅢 🅛🅐🅝🅖🅤🅐🅖🅔🅢 ⮧</h3>
+<h3 align="center">🦋ℕ𝕆𝕋𝕆ℝ𝕀𝕆𝕌𝕊 𝕃𝔸ℕ𝔾𝕌𝔸𝔾𝔼𝕊 ⮧</h3>
 
 <table align="center">
 <tr>
