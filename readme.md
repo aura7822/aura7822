@@ -28,7 +28,7 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxycmNvbWF2emRwbWpmZ2VzNWtjemlxMGE5aGIxYWxidzQ5aDdnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" width="250">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFxczB5c3Nma2VsOTZjMWplNHh1eWZvcW1memU5eGZ5N21sZndodCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="250">
 <div align="center">
   
  ### 🦋𝕄𝕀ℕ𝔼 ℙℍ𝕀𝕃𝕆𝕊𝕆ℙℍ𝕐 :
