@@ -1,7 +1,6 @@
-
 <p align="center">
   <a href="https://instagram.com/t.y.p.i.c.a.l.l.y_aura_73">
-    <img src="https://skillicons.dev/icons?i=instagram" width="28"> t.y.p.i.c.a.l.l.y_aura_73
+    <img src="https://img.shields.io/badge/Instagram-%40t.y.p.i.c.a.l.l.y__aura__73-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -28,7 +27,7 @@
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFxczB5c3Nma2VsOTZjMWplNHh1eWZvcW1memU5eGZ5N21sZndodCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="250">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUzdjVqaWRtNmNqcnU1Ym55dGw5d2phdTVic2xvOTR1eGkzeGhrYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rhZr8u3cvxe0ksf1ej/giphy.gif" width="250">
 <div align="center">
   
  ### 🦋𝕄𝕀ℕ𝔼 ℙℍ𝕀𝕃𝕆𝕊𝕆ℙℍ𝕐 :
@@ -50,7 +49,7 @@
     
 ### 🦋𝕋𝔼ℂℍ 𝔸ℝ𝕊𝔼ℕ𝔸𝕃𝕊 :
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,java,discord,bots,arch,kubernetes,flask,cpp,linux,androidstudio,blender,c,cs,cmake,debian,rust,bash,redhat,replit,git,github,mongodb,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=python,,js,,nodejs,,java,,discord,,bots,,arch,,kubernetes,,flask,,cpp,,linux,,androidstudio,,blender,,c,,cs,,cmake,,debian,,rust,,bash,,redhat,,replit,,git,,github,,mongodb,,mysql,,docker,,windows,,kotlin,,html,,css,,mysql,,go,,android,,django,,claude,,kde,,codeblocks,,deepseek,,django" />
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -75,30 +74,7 @@
 <td>
 
 
-<h3 align="center">🦋ℕ𝕆𝕋𝕆ℝ𝕀𝕆𝕌𝕊 𝕃𝔸ℕ𝔾𝕌𝔸𝔾𝔼𝕊 ⮧</h3>
 
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=c" width="40"/><br>C</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>C++</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br>Java</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS</td>
-</tr>
-
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=cs" width="40"/><br>C#</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="40"/><br>JavaScript</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bash" width="40"/><br>Bash</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=rust" width="40"/><br>Rust</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=go" width="40"/><br>Go</td>
-</tr>
-</table>
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <div align = "center">
   
@@ -111,7 +87,7 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/1tkHHqMZaVoNtQvC32Om8X)
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 ◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪◪
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
