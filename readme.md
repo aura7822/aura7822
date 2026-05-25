@@ -54,7 +54,7 @@
   <tr>
     <td> <img src="https://skillicons.dev/icons?i=,,python,,js,,nodejs,,blender,,debian" /> <br>
     <img src="https://skillicons.dev/icons?i=java,,discord,,bots,,c,,rust"/> <br>
-       <img src="https://skillicons.dev/icons?i=,,cpp,,linux,,androidstudio,,cs,,bash"/> <br>
+       <img src="https://skillicons.dev/icons?i=,,cpp,,gitlab,,androidstudio,,cs,,bash"/> <br>
       <img src="https://skillicons.dev/icons?i=arch,,kubernetes,,flask,,cmake,,redhat" />
     </td>
   </tr>
@@ -76,7 +76,7 @@
 </table>
 <br>
 <table align="left" >
-  <tr><td>  <img src="https://skillicons.dev/icons?i=gitlab" width="150"/></td></tr>
+  <tr><td>  <img src="https://skillicons.dev/icons?i=linux" width="150"/></td></tr>
 </table>
 
 
