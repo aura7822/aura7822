@@ -173,7 +173,7 @@
 
 ❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖
 
-**🦋Game is in progress.** Its a piece worth moving 
+**🦋Game is in progress.** Mate in one move 
 
 
 |   | A | B | C | D | E | F | G | H |
