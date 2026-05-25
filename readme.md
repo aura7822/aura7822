@@ -61,7 +61,7 @@
 </table>
 
 <table align="right" >
-  <tr ><td>  <img src="https://skillicons.dev/icons?i=github"  width="200"/></td></tr>
+  <tr ><td>  <img src="https://skillicons.dev/icons?i=github"  width="150"/></td></tr>
 </table>
 
 
@@ -76,7 +76,7 @@
 </table>
 <br>
 <table align="left" >
-  <tr><td>  <img src="https://skillicons.dev/icons?i=gitlab" width="200"/></td></tr>
+  <tr><td>  <img src="https://skillicons.dev/icons?i=gitlab" width="150"/></td></tr>
 </table>
 
 
