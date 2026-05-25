@@ -48,10 +48,39 @@
   <div align= "center">
     
 ### 🦋𝕋𝔼ℂℍ 𝔸ℝ𝕊𝔼ℕ𝔸𝕃𝕊 :
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,,js,,nodejs,,java,,discord,,bots,,arch,,kubernetes,,flask,,cpp,,linux,,androidstudio,,blender,,c,,cs,,cmake,,debian,,rust,,bash,,redhat,,replit,,git,,github,,mongodb,,mysql,,docker,,windows,,kotlin,,html,,css,,mysql,,go,,android,,django,,claude,,kde,,codeblocks,,deepseek,,django" />
-</p>
 
+<div>
+<table align="left" width="70">
+  <tr>
+    <td> <img src="https://skillicons.dev/icons?i=,,python,,js,,nodejs,,blender,,debian" /> <br>
+    <img src="https://skillicons.dev/icons?i=java,,discord,,bots,,c,,rust"/> <br>
+       <img src="https://skillicons.dev/icons?i=,,cpp,,linux,,androidstudio,,cs,,bash"/> <br>
+      <img src="https://skillicons.dev/icons?i=arch,,kubernetes,,flask,,cmake,,redhat" />
+    </td>
+  </tr>
+</table>
+
+<table align="right" width="500">
+  <tr><td>  <img src="https://skillicons.dev/icons?i=github" /></td></tr>
+</table>
+
+
+  <table align="right">
+  <tr>
+    <td> <img src="https://skillicons.dev/icons?i=,,replit,,git,,julia,,mongodb,,mysql" /> <br>
+    <img src="https://skillicons.dev/icons?i=docker,,windows,,kotlin,,html,,css"/> <br>
+       <img src="https://skillicons.dev/icons?i=,,go,,notion,,php,,react,,visualstudio"/> <br>
+      <img src="https://skillicons.dev/icons?i=redis,,django,,nodejs,,azure,,figma" />
+    </td>
+  </tr>
+</table>
+<br>
+<table align="left" width="500">
+  <tr><td>  <img src="https://skillicons.dev/icons?i=gitlab" /></td></tr>
+</table>
+
+
+</div>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
