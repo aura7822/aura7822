@@ -50,7 +50,7 @@
 ### 🦋𝕋𝔼ℂℍ 𝔸ℝ𝕊𝔼ℕ𝔸𝕃𝕊 :
 
 <div>
-<table align="left" width="70">
+<table align="left" width="">
   <tr>
     <td> <img src="https://skillicons.dev/icons?i=,,python,,js,,nodejs,,blender,,debian" /> <br>
     <img src="https://skillicons.dev/icons?i=java,,discord,,bots,,c,,rust"/> <br>
@@ -60,8 +60,8 @@
   </tr>
 </table>
 
-<table align="right" width="500">
-  <tr><td>  <img src="https://skillicons.dev/icons?i=github" /></td></tr>
+<table align="right" >
+  <tr ><td>  <img src="https://skillicons.dev/icons?i=github"  width="200"/></td></tr>
 </table>
 
 
@@ -75,8 +75,8 @@
   </tr>
 </table>
 <br>
-<table align="left" width="500">
-  <tr><td>  <img src="https://skillicons.dev/icons?i=gitlab" /></td></tr>
+<table align="left" >
+  <tr><td>  <img src="https://skillicons.dev/icons?i=gitlab" width="200"/></td></tr>
 </table>
 
 
