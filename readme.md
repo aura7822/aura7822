@@ -87,7 +87,7 @@
 ### 🦋𝔾𝕀𝕋ℍ𝕌𝔹 𝕊𝕋𝔸𝕋𝕊 :
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aura7822&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=aura7822&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="700" height="250" alt="follow me on github @ aura7822" />
 </p>
 
 
