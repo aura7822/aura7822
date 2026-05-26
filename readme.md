@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://instagram.com/t.y.p.i.c.a.l.l.y_aura_73">
+  <a href="https://www.instagram.com/_t.y.p.i.c.a.l.l.y_aura_73/#">
     <img src="https://img.shields.io/badge/Instagram-%40t.y.p.i.c.a.l.l.y__aura__73-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
