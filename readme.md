@@ -170,7 +170,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHo4d2dsam1jeG52M2RwM2F3bDExeGRmcnQxNDBydTRrejVzejdrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Lacdhow6MzATtdNytw/giphy.gif" alt="or else gif" width="100"/>
 </p>
+
 [![committers.top badge](https://user-badge.committers.top/kenya/aura7822.svg)](https://user-badge.committers.top/kenya/aura7822)
+
 ❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖❖
 
 **🦋Game is in progress.** Mate in one move 
